@@ -1,5 +1,5 @@
 # Simple-Distance-Based-Classifier
 
-gd = goofy-doraemon
-hp = hand-phone
+- gd = goofy-doraemon
+- hp = hand-phone
  
