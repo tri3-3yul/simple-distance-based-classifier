@@ -1,14 +1,14 @@
-**NB:**
-- gd = goofy-doraemon
-- hp = hand-phone
-
-## Kelompok Expert System Semester 6 Informatika UNS 2024
+# Kelompok Expert System Semester 6 Informatika UNS 2024
 | Nama                                        | NIM         |
 |--------                                     |-----------  |
 | Salomo Polanco                              | M0521068    |
 | Shalli Dyangrosa Permatanurani Balqis       | M0521072    |
 | Shalsabila Aura Adiar                       | M0521073    |
 | Tri Yulianto                                | M0521077    |
+
+**NB:**
+- gd = goofy-doraemon
+- hp = hand-phone
 
 ## Dokumentasi
 - [Laporan]()
