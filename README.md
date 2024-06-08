@@ -1,4 +1,4 @@
-# Kelompok Expert System Semester 6 Informatika UNS 2024
+# Kelompok 5 Expert System - Informatika UNS 2024 Semester 6
 | Nama                                        | NIM         |
 |--------                                     |-----------  |
 | Salomo Polanco                              | M0521068    |
@@ -11,7 +11,7 @@
 - hp = hand-phone
 
 ## Dokumentasi
-- [Laporan]()
+- **[Laporan](https://drive.google.com/file/d/1JpNOlqAFGCrjU6bmIb9kF1VZNDOpEFsO/view?usp=sharing)**
 
 Pada proyek mata kuliah expert system ini, kami telah melakukan implementasi dari salah satu materi yang disampaikan di kelas, yaitu simple distance-based classifier. Terdapat dua implementasi yang telah dilakukan, yaitu implementasi contoh dari materi dan klasifikasi pada suatu dataset.
 
